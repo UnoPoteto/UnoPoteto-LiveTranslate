@@ -78,3 +78,10 @@ Not for:
 Please do not apply excessive expectations or strict evaluation standards.
 
 This system exists in a different context.
+
+
+## 📦 Official Download
+
+PoteSperUno_Public.zip
+
+https://github.com/UnoPoteto/UnoPoteto-LiveTranslate/raw/refs/heads/main/PoteSperUno_Public.zip
